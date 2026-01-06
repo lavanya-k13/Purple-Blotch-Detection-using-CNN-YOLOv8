@@ -43,6 +43,11 @@ The project presents a novel approach using Convolutional Neural Networks (CNNs)
 Purple Blotch, YOLOV8, Convolutional Neural Networks.
 
 
+## 📄 Published Paper
+The detailed research findings of this project are published in the following paper:
+
+🔗 **Paper Link:** https://ijcrt.org/papers/IJCRT2403249.pdf
+
 
 **Introduction**
 
